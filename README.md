@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ituran Brasil as intern <br>👯 I’m looking to collaborate on projects in JavaScript <br>🌱 I’m currently learning about ReactJs and NodeJs<br>💬 Ask me about JavaScript, CSS/SASS and SQL<br>👀 I’m interested in JavaScript, SQL, ReactJs and NodeJs<br>📫 How to reach me: Contact me on email : martinsiagosaraiva@gmail.com<br>
+🔭 I’m currently working on Pmovil LTDA as intern <br>👯 I’m looking to collaborate on projects in JavaScript <br>🌱 I’m currently learning about ReactJs and NodeJs<br>💬 Ask me about JavaScript, CSS/SASS and SQL<br>👀 I’m interested in JavaScript, SQL, ReactJs and NodeJs<br>📫 How to reach me: Contact me on email : martinsiagosaraiva@gmail.com<br>
 
 
 ## 🌐 Socials:
